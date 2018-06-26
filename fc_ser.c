@@ -26,6 +26,7 @@
 
 static int dev_fd, signal_fd;
 
+//test git
 /*
 struct mailbox{
 	u16  stjb_codef;		//offset 00
